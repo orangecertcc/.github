@@ -9,7 +9,7 @@ The **C**omputer **E**mergency **R**esponse **T**eam - **C**oordination **C**ent
 Orange CERT-CC is recognized and listed by [Trusted Introducer consortium](https://www.trusted-introducer.org/directory/teams/orange-cert-cc.html).
 
 To report a Security Incident: https://cert.orange.com
-If you wish to report any abuse to Orange concerning orange.com domain (phishing, spam, scam…), please contact us by email: abuse@orange.com
+If you wish to report any abuse to Orange concerning orange.com domain (phishing, spam, scam…), please contact us by email: abuse [at] orange.com
 
 ![Authorized to use CERT2](https://user-images.githubusercontent.com/16541780/205068979-966643f3-daae-44fe-b4e6-fa8ed4843c75.png)
 [![Accredited Trusted Introducer](https://www.trusted-introducer.org/logos/TI_120x120.jpg)](https://www.trusted-introducer.org/directory/teams/orange-cert-cc.html)
