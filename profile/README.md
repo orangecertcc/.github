@@ -14,5 +14,5 @@ To report a Security Incident: https:/cert.orange.com
 ![Accredited Trusted Introducer](https://www.trusted-introducer.org/logos/TI_120x120.jpg)
 
 ## Contacts
-[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/OrangeCertCC.svg?style=social&label=Follow%20%40OrangeCertCC](https://twitter.com/OrangeCertCC)
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/OrangeCertCC.svg?style=social&label=Follow%20%40OrangeCertCC)](https://twitter.com/OrangeCertCC)
 [website]: https:/cert.orange.com
