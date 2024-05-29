@@ -14,7 +14,7 @@ If you wish to report any abuse to Orange concerning orange.com domain (phishing
 ![Authorized to use CERT2](https://user-images.githubusercontent.com/16541780/205068979-966643f3-daae-44fe-b4e6-fa8ed4843c75.png)
 [![Accredited Trusted Introducer](https://www.trusted-introducer.org/logos/TI_120x120.jpg)](https://www.trusted-introducer.org/directory/teams/orange-cert-cc.html)
 [![Accredited First](https://avatars.githubusercontent.com/u/10697969?s=120)](https://www.first.org/members/teams/orange-cert-cc)
-<a href="[https://www.ssi.gouv.fr/en/cybersecurity-in-france/cybersecurity-strategy/french-cert/](https://www.intercert-france.fr/membres/)"><img src="https://www.intercert-france.fr/wp-content/themes/yagami-adveris/web/src/img/global/logo-color.png" width="120px" height="120px"></a>
+<a href="https://www.intercert-france.fr/membres/"><img src="https://www.intercert-france.fr/wp-content/themes/yagami-adveris/web/src/img/global/logo-color.png" width="120px" height="120px"></a>
 
 ## Contacts
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/OrangeCertCC.svg?style=social&label=Follow%20%40OrangeCertCC)](https://twitter.com/OrangeCertCC)
